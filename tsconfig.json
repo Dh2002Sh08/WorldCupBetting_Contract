@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "types": ["node", "mocha"],
+    "baseUrl": "./contracts",
+    "typeRoots": ["./contracts/node_modules/@types"],
+    "paths": {
+      "*": ["node_modules/*"]
+    }
+  },
+  "include": [
+    "WorldCupBetting.assessment.test.ts",
+    "contracts/hardhat.config.ts"
+  ]
+}

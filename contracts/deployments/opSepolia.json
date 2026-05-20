@@ -1,0 +1,10 @@
+{
+  "network": "opSepolia",
+  "chainId": 11155420,
+  "reputationSystem": "0x4DAC1A51ef037DE8d894dc5C6614DfC9c98a339F",
+  "worldCupBetting": "0x2A7981398a9Afa94F999d8e8E817b31Ef724BA63",
+  "explorer": {
+    "worldCupBetting": "https://testnet-explorer.optimism.io/address/0x2A7981398a9Afa94F999d8e8E817b31Ef724BA63",
+    "reputationSystem": "https://testnet-explorer.optimism.io/address/0x4DAC1A51ef037DE8d894dc5C6614DfC9c98a339F"
+  }
+}

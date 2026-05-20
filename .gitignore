@@ -1,0 +1,9 @@
+contracts/node_modules/
+contracts/artifacts/
+contracts/cache/
+contracts/typechain-types/
+contracts/coverage/
+contracts/coverage.json
+.env
+contracts/test/**/*.js
+contracts/test/**/*.js.map
